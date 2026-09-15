@@ -1,13 +1,18 @@
-Comic Converter Website V8
+Comic Converter Website V9
 
-Launch-ready static website for Comic Converter 1.0.0.
+Launch-polish update based on V8.2 SEO.
 
-The Windows download button points directly to the public GitHub Release:
-https://github.com/comicconverterapp/Comic-Converter/releases/tag/v1.0.0
+Changes:
+- Search title: Comic Converter | PDF to CBZ Converter for Windows
+- Improved search description
+- CC speech-bubble favicon (.ico + PNG)
+- Apple touch icon
+- Canonical URL
+- Open Graph sharing metadata
+- Twitter/X large-image metadata
+- 1200x630 social sharing preview
+- Existing Google verification tag preserved
+- Existing sitemap.xml and robots.txt preserved
+- Existing GitHub download, download counter, Ko-fi, theme switching, and responsive design preserved
 
-The download counter reads the public GitHub Release asset download count. If GitHub's API is unavailable, it falls back to "See GitHub".
-
-Ko-fi:
-https://ko-fi.com/comicconverter
-
-The site is self-contained and can be hosted as a static website.
+Upload all files in this folder to the root of the comicconverterapp.github.io repository.
