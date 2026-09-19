@@ -1,18 +1,19 @@
-Comic Converter Website V9
+Comic Converter Website V10
 
-Launch-polish update based on V8.2 SEO.
+Updated for Comic Converter 1.1.0.
 
 Changes:
-- Search title: Comic Converter | PDF to CBZ Converter for Windows
-- Improved search description
-- CC speech-bubble favicon (.ico + PNG)
-- Apple touch icon
-- Canonical URL
-- Open Graph sharing metadata
-- Twitter/X large-image metadata
-- 1200x630 social sharing preview
-- Existing Google verification tag preserved
-- Existing sitemap.xml and robots.txt preserved
-- Existing GitHub download, download counter, Ko-fi, theme switching, and responsive design preserved
+- Download button now points to the v1.1.0 Windows release.
+- Hero screenshot updated to the redesigned 1.1.0 app.
+- Added a What's New section for 1.1.0.
+- Download counter now totals Windows ZIP downloads across all GitHub releases, so previous release downloads are not lost.
+- FAQ updated for version 1.1.0.
+- Refreshed social preview image.
+- Existing Google verification, SEO metadata, sitemap, robots.txt, favicon, Ko-fi, theme switcher, and responsive design preserved.
 
-Upload all files in this folder to the root of the comicconverterapp.github.io repository.
+Upload every file in this folder to the root of comicconverterapp.github.io and commit the changes.
+
+
+V10.1 visual tweak:
+- App screenshot cropped to the application window (no empty black canvas)
+- App preview section widened on desktop so the UI fills the showcase area
